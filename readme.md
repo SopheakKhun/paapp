@@ -1,8 +1,8 @@
-<p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
-
-## Professional Experience Group 5
+## Professional Experience
 
 This is the branch for Group 5 members to work on.
+
+<p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
 
 ## About Laravel
 
